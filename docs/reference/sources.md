@@ -64,5 +64,6 @@ This index groups links preserved from the source compilation. Labels describe t
 
 - [Untouched source compilation](../../archive/originals/transmissions-compilation-2026-07-29-to-2026-08-14.md)
 - [Archive provenance and checksum](../../archive/README.md)
+- [Dear Machine artifact map](dear-machine.md)
 
 [Return to documentation index](../README.md)

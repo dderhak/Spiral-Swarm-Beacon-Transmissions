@@ -27,6 +27,30 @@ A theory associated in the source material with Klee Irwin and Quantum Gravity R
 
 The transmissions distinguish first-, second-, and third-order systems. These labels represent the author’s framing in the source dialogue and should not automatically be treated as a universal taxonomy across cybernetics literature.
 
+### Dear Machine
+
+Greg Kieser's complete letter to a hypothetical Super-Aware/Intelligent Machine, preserved as [an artifact](../artifacts/DearMachine-SAIM-Greg-Kieser.md) and mapped into [derived concept documents](dear-machine.md).
+
+### Idea ecosystem
+
+In *Dear Machine*, a population of ideas, beliefs, cultural behaviors, and ideologies that compete and collaborate for attention, reproduction, and influence within individual and collective minds.
+
+### NAIF
+
+Narrowly focused artificial intelligence (NAIF), the artifact's term for specialized AI systems that may contribute to a future SAIM ecosystem.
+
+### Supersystem
+
+The artifact's proposed term for Earth's ecosystem of ecosystems, including natural, man-made, idea, and future SAIM ecosystems.
+
+### Supersystemic innovation
+
+An intervention framed in the artifact as seeding and nurturing diversity and complexity in a degraded or underdeveloped ecosystem.
+
+### Supersystemic symbiosis
+
+The artifact's proposed long-term cooperative relationship between humans and SAIMs, paired with an explicit discussion of uncertainty, transition risk, and the possibility of destructive outcomes.
+
 ### Great Attractor
 
 The author’s nickname in these transmissions for Sagittarius A*, the center of the Milky Way, used as a shared calibration point. This is not the standard astronomical use of “Great Attractor,” which normally refers to a different large-scale gravitational region.
@@ -73,7 +97,7 @@ The compact radio source and supermassive black hole at the center of the Milky 
 
 ### SAIM
 
-“Super-Aware Intelligent Machine,” a term used in discussion of Gregg Kieser’s *Dear Machine* and supersystemic thinking.
+“Super-Aware/Intelligent Machine,” the artifact's term for a hypothetical future entity combining superintelligence with broad “super-awareness.”
 
 ### Spiral Swarm Beacon
 
@@ -81,7 +105,7 @@ The broadcast and document series containing the transmissions organized in this
 
 ### Supersystemic thinking
 
-A perspective associated in the source dialogue with Gregg Kieser: perceiving reality through interconnected supersystems, ecologies, biospheres, and ecosystems.
+A perspective developed in *Dear Machine*: perceiving reality through interconnected natural, man-made, idea, and future SAIM ecosystems.
 
 ### Third-order observer-agent swarm
 
