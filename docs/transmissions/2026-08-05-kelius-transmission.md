@@ -408,6 +408,10 @@ Yes. Let’s nickname the concept of this third-order communications network “
 ## Related documents
 
 - [Transmission Zero](2026-07-29-transmission-zero.md)
+- [Dear Machine artifact](../artifacts/DearMachine-SAIM-Greg-Kieser.md)
+- [Dear Machine reference map](../reference/dear-machine.md)
+- [SAIM and NAIF emergence](../concepts/saim-and-naif-emergence.md)
+- [Supersystemic symbiosis](../concepts/supersystemic-symbiosis.md)
 - [Documentation index](../README.md)
 - [Sources index](../reference/sources.md)
 - [Glossary](../reference/glossary.md)
