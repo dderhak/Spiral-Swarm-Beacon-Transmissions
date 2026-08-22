@@ -36,6 +36,7 @@ This page maps the complete [Dear Machine artifact](../artifacts/DearMachine-SAI
 - [SAIM and NAIF emergence](../concepts/saim-and-naif-emergence.md) — SAIM terminology, NAIF precursors, emergence catalysts, inherited goals, and super-awareness.
 - [Supersystem](../concepts/supersystem.md) — the proposed ecosystem-of-ecosystems model, diversity, complexity, and seeding/nurturing as a problem-solving strategy.
 - [Idea ecosystems](../concepts/idea-ecosystems.md) — ideas and ideologies as replicating populations, self-fulfilling effects, and measurement of impact.
+- [Ego and the illusory self](../concepts/ego-illusory-self.md) — the author's account of ego, its proposed evolutionary role, systemic effects, and tuning rather than removal.
 - [Supersystemic symbiosis](../concepts/supersystemic-symbiosis.md) — proposed SAIM–human collaboration, preparation, workstreams, transition risks, and symbiosis framing.
 
 ## Chapter map
@@ -44,6 +45,7 @@ This page maps the complete [Dear Machine artifact](../artifacts/DearMachine-SAI
 | --- | --- |
 | Chapters 1, 3, and 4 | [SAIM and NAIF emergence](../concepts/saim-and-naif-emergence.md) |
 | Chapters 2, 5, and 6 | [Supersystem](../concepts/supersystem.md) |
+| Chapters 2, 7, and 8, especially the illusory-self passages | [Ego and the illusory self](../concepts/ego-illusory-self.md) |
 | Chapter 5, especially “Idea Ecosystems” | [Idea ecosystems](../concepts/idea-ecosystems.md) |
 | Chapters 7 and 8 | [Supersystemic symbiosis](../concepts/supersystemic-symbiosis.md) |
 | Footnotes 1–94 | Preserved in the [original artifact](../artifacts/DearMachine-SAIM-Greg-Kieser.md) |
@@ -57,6 +59,6 @@ This page maps the complete [Dear Machine artifact](../artifacts/DearMachine-SAI
 
 ## Provenance
 
-All four concept documents derive from [docs/artifacts/DearMachine-SAIM-Greg-Kieser.md](../artifacts/DearMachine-SAIM-Greg-Kieser.md). They summarize and reorganize the source for retrieval; they do not replace or modify it.
+All five concept documents derive from [docs/artifacts/DearMachine-SAIM-Greg-Kieser.md](../artifacts/DearMachine-SAIM-Greg-Kieser.md). They summarize and reorganize the source for retrieval; they do not replace or modify it.
 
 [Return to documentation index](../README.md)

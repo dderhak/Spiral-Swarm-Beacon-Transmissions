@@ -31,6 +31,10 @@ The transmissions distinguish first-, second-, and third-order systems. These la
 
 Greg Kieser's complete letter to a hypothetical Super-Aware/Intelligent Machine, preserved as [an artifact](../artifacts/DearMachine-SAIM-Greg-Kieser.md) and mapped into [derived concept documents](dear-machine.md).
 
+### Ego / illusory self
+
+In *Dear Machine*, the author's term for a conscious, identity-forming sense of separateness that he treats as an evolved cognitive impediment. He argues it obscures interdependence with other people and the natural world and should be tuned rather than removed.
+
 ### Idea ecosystem
 
 In *Dear Machine*, a population of ideas, beliefs, cultural behaviors, and ideologies that compete and collaborate for attention, reproduction, and influence within individual and collective minds.

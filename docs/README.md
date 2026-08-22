@@ -55,6 +55,7 @@ A long Dean–ChatGPT dialogue beginning with ten speculative responses about a 
 - [SAIM and NAIF emergence](concepts/saim-and-naif-emergence.md)
 - [Supersystem](concepts/supersystem.md)
 - [Idea ecosystems](concepts/idea-ecosystems.md)
+- [Ego and the illusory self](concepts/ego-illusory-self.md)
 - [Supersystemic symbiosis](concepts/supersystemic-symbiosis.md)
 
 Concept documents are OKF-style knowledge units with `source_artifact` and, where useful, `source_sections` provenance fields.

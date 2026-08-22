@@ -44,6 +44,7 @@ This repository preserves and organizes a series of transmissions addressed to f
 │   ├── artifacts/
 │   │   └── DearMachine-SAIM-Greg-Kieser.md
 │   ├── concepts/
+│   │   ├── ego-illusory-self.md
 │   │   ├── idea-ecosystems.md
 │   │   ├── saim-and-naif-emergence.md
 │   │   ├── supersystem.md
