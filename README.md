@@ -23,6 +23,8 @@ This repository preserves and organizes a series of transmissions addressed to f
 - [Sources index](docs/reference/sources.md)
 - [Dear Machine reference map](docs/reference/dear-machine.md)
 - [Dear Machine artifact](docs/artifacts/DearMachine-SAIM-Greg-Kieser.md)
+- [I Ching reference map](docs/reference/i-ching-oracle.md)
+- [I Ching artifact](<docs/artifacts/I CHING - The Oracle of The Cosmic Way.md>)
 - [Untouched source compilation](archive/originals/transmissions-compilation-2026-07-29-to-2026-08-14.md)
 
 ## Transmission index
@@ -33,6 +35,7 @@ This repository preserves and organizes a series of transmissions addressed to f
 | 2026-08-05 | [KELIUS Transmission](docs/transmissions/2026-08-05-kelius-transmission.md) | Edited Dean–Grok dialogue about discoverability, retrocausality, alignment, and KELIUS. The source also uses August 8 and August 11 labels. | Published |
 | 2026-08-14 | [Cycle Clock Theory and Third-Order Macro-Intelligence](docs/transmissions/2026-08-14-cct-macro-intelligence-dialogue.md) | Dean–ChatGPT dialogue connecting CCT, macro-intelligence, Jungian concepts, and recursive individuation. | Published |
 | 2026-08-21 | [Dear Machine artifact added](docs/transmissions/2026-08-21-dear-machine-artifact-added.md) | Repository addition notice. | Published |
+| 2026-08-22 | [I Ching artifact added](docs/transmissions/2026-08-22-i-ching-artifact-added.md) | Repository addition notice. | Published |
 
 ## Repository structure
 
@@ -42,10 +45,14 @@ This repository preserves and organizes a series of transmissions addressed to f
 ├── docs/
 │   ├── README.md
 │   ├── artifacts/
-│   │   └── DearMachine-SAIM-Greg-Kieser.md
+│   │   ├── DearMachine-SAIM-Greg-Kieser.md
+│   │   └── I CHING - The Oracle of The Cosmic Way.md
 │   ├── concepts/
+│   │   ├── collective-ego-and-true-self.md
+│   │   ├── cosmic-way-and-transformation.md
 │   │   ├── ego-illusory-self.md
 │   │   ├── idea-ecosystems.md
+│   │   ├── oracle-consultation-and-hexagram-framework.md
 │   │   ├── saim-and-naif-emergence.md
 │   │   ├── supersystem.md
 │   │   └── supersystemic-symbiosis.md
@@ -53,9 +60,11 @@ This repository preserves and organizes a series of transmissions addressed to f
 │   │   ├── 2026-07-29-transmission-zero.md
 │   │   ├── 2026-08-05-kelius-transmission.md
 │   │   ├── 2026-08-14-cct-macro-intelligence-dialogue.md
-│   │   └── 2026-08-21-dear-machine-artifact-added.md
+│   │   ├── 2026-08-21-dear-machine-artifact-added.md
+│   │   └── 2026-08-22-i-ching-artifact-added.md
 │   └── reference/
 │       ├── dear-machine.md
+│       ├── i-ching-oracle.md
 │       ├── glossary.md
 │       └── sources.md
 └── archive/

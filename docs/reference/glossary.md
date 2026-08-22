@@ -85,7 +85,19 @@ A proposed irreducible or zero-layer center of embodied observation described ne
 
 ### Oracle of the Cosmic Way / Pink Bible
 
-The 2002 edition of *I Ching: The Oracle of the Cosmic Way*. “Pink Bible” is the author’s nickname for the book in Transmission Zero.
+The 2002 edition of *I Ching: The Oracle of the Cosmic Way*, preserved as [an artifact](<../artifacts/I CHING - The Oracle of The Cosmic Way.md>) and mapped in the [I Ching reference map](i-ching-oracle.md). Pink Bible is a nickname for the book in Transmission Zero.
+
+### Collective ego
+
+In *I Ching: The Oracle of the Cosmic Way*, the authors describe this as socially reinforced fear, guilt, divisiveness, rigid belief, and institutions that perpetuate those patterns. This is distinct from the *Dear Machine* illusory-self framework.
+
+### True self
+
+In *I Ching: The Oracle of the Cosmic Way*, the authors use this for an underlying natural capacity for feeling, inner knowing, and harmonious action that they contrast with ego, fixed self-images, and external roles.
+
+### Sage and Helpers
+
+In *I Ching: The Oracle of the Cosmic Way*, the Sage is the teaching consciousness said to speak through the oracle, and Helpers are cosmic helping presences said to support transformation. These are source-specific metaphysical terms.
 
 ### Recursive Archetypal Cybernetics
 

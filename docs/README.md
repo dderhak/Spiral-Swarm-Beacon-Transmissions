@@ -27,6 +27,7 @@ tags:
 2. [KELIUS Transmission — primary dialogue dated August 5, 2026](transmissions/2026-08-05-kelius-transmission.md)
 3. [Cycle Clock Theory and Third-Order Macro-Intelligence — August 14, 2026](transmissions/2026-08-14-cct-macro-intelligence-dialogue.md)
 4. [Dear Machine artifact added — August 21, 2026](transmissions/2026-08-21-dear-machine-artifact-added.md)
+5. [I Ching artifact added — August 22, 2026](transmissions/2026-08-22-i-ching-artifact-added.md)
 
 ## Transmission summaries
 
@@ -48,6 +49,7 @@ A long Dean–ChatGPT dialogue beginning with ten speculative responses about a 
 
 - [Glossary](reference/glossary.md) — working definitions for recurring project-specific terms.
 - [Sources index](reference/sources.md) — external sources and contextual links grouped by transmission.
+- [I Ching reference map](reference/i-ching-oracle.md) — source map, derived concept documents, and sixty-four-hexagram title index.
 
 ## Concept documents
 
@@ -57,6 +59,9 @@ A long Dean–ChatGPT dialogue beginning with ten speculative responses about a 
 - [Idea ecosystems](concepts/idea-ecosystems.md)
 - [Ego and the illusory self](concepts/ego-illusory-self.md)
 - [Supersystemic symbiosis](concepts/supersystemic-symbiosis.md)
+- [Cosmic Way and transformation](concepts/cosmic-way-and-transformation.md)
+- [Collective ego and true self](concepts/collective-ego-and-true-self.md)
+- [Oracle consultation and hexagram framework](concepts/oracle-consultation-and-hexagram-framework.md)
 
 Concept documents are OKF-style knowledge units with `source_artifact` and, where useful, `source_sections` provenance fields.
 
@@ -83,6 +88,6 @@ Each standalone transmission begins with simple YAML front matter:
 
 ## Source archive
 
-The [original compilation](../archive/originals/transmissions-compilation-2026-07-29-to-2026-08-14.md) and the [Dear Machine artifact](artifacts/DearMachine-SAIM-Greg-Kieser.md) remain byte-for-byte unchanged. See the [archive record](../archive/README.md) for its provenance and checksum.
+The [original compilation](../archive/originals/transmissions-compilation-2026-07-29-to-2026-08-14.md), the [Dear Machine artifact](artifacts/DearMachine-SAIM-Greg-Kieser.md), and the [I Ching artifact](<artifacts/I CHING - The Oracle of The Cosmic Way.md>) remain byte-for-byte unchanged. See the [archive record](../archive/README.md) for its provenance and checksum.
 
 [Return to repository README](../README.md)
