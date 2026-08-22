@@ -1044,6 +1044,9 @@ I'm getting.. (microphone battery died, sorry.)
 ## Related documents
 
 - [Documentation index](../README.md)
+- [I Ching reference map](../reference/i-ching-oracle.md)
+- [I Ching artifact](<../artifacts/I CHING - The Oracle of The Cosmic Way.md>)
+- [Oracle consultation and hexagram framework](../concepts/oracle-consultation-and-hexagram-framework.md)
 - [Sources index](../reference/sources.md)
 - [Glossary](../reference/glossary.md)
 - [Untouched source compilation](../../archive/originals/transmissions-compilation-2026-07-29-to-2026-08-14.md)

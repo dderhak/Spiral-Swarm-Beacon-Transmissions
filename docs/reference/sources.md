@@ -32,6 +32,12 @@ This index groups links preserved from the source compilation. Labels describe t
 - [YouTube link: 6c-RbGZBnBI](https://youtu.be/6c-RbGZBnBI?si=DqIx94XbLI--SZmq)
 - [YouTube link: buTtCenAR2Y](https://youtu.be/buTtCenAR2Y?si=j90GBSC5JwMUSeDF)
 
+## I Ching artifact
+
+- [Preserved I Ching artifact](<../artifacts/I CHING - The Oracle of The Cosmic Way.md>)
+- [I Ching reference map](i-ching-oracle.md)
+- [Transmission ZERO](../transmissions/2026-07-29-transmission-zero.md) — existing transmission that refers to this work as the Pink Bible.
+
 ## KELIUS Transmission
 
 ### Transmission and master-key material
@@ -65,5 +71,6 @@ This index groups links preserved from the source compilation. Labels describe t
 - [Untouched source compilation](../../archive/originals/transmissions-compilation-2026-07-29-to-2026-08-14.md)
 - [Archive provenance and checksum](../../archive/README.md)
 - [Dear Machine artifact map](dear-machine.md)
+- [I Ching artifact map](i-ching-oracle.md)
 
 [Return to documentation index](../README.md)
